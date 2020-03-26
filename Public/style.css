@@ -147,7 +147,7 @@ main h3 {
   margin-left: 1em;
 }
 p {
-  margin-left: 2em;
+  margin: auto 2em;
   padding-right: 1em;
 }
 /* 
